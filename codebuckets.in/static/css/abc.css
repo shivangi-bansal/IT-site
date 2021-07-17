@@ -1,0 +1,67 @@
+ button.owl-dot {
+     outline: none;
+     background: none;
+     border: none;
+ }
+
+ .logo1 {
+     height: 35px;
+     width: 35px;
+     border-radius: 10px;
+ }
+
+ .light {
+     border: 2px solid blue;
+ }
+
+ .mx-auto {
+     margin-right: auto !important;
+     margin-left: auto !important;
+ }
+
+ .card:hover {
+     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+     cursor: pointer;
+ }
+
+ .pb-20 {
+     padding-bottom: 20px;
+ }
+
+ .invisible {
+     visibility: hidden;
+ }
+
+ #avatar {
+     border-radius: 20px;
+     padding: 5px 5px;
+ }
+
+ .pt-10 {
+     padding-top: 10px;
+ }
+
+ #avatar {
+     box-shadow: 2px 2px 2px 2px grey;
+     /*border:20px solid white;*/
+ }
+
+ .footer-margin {
+     left: 100px;
+ }
+
+ .collapse-content .fa.fa-heart:hover {
+     color: #f44336 !important;
+ }
+
+ .collapse-content .fa.fa-share-alt:hover {
+     color: #0d47a1 !important;
+ }
+
+ input[type=number]::-webkit-inner-spin-button,
+ input[type=number]::-webkit-outer-spin-button {
+     -webkit-appearance: none;
+     -moz-appearance: none;
+     appearance: none;
+     margin: 0;
+ }
